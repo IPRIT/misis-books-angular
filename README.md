@@ -61,4 +61,4 @@ To access the local server, enter the following URL into your web browser:
 http://localhost:3000/
 ```
 
-![Awesome sreenshot](https://pp.vk.me/c627531/v627531446/e062/j_wEahZzUcc.jpg)
+![Awesome sreenshot](https://pp.vk.me/c627531/v627531177/f907/jft0m5BNipA.jpg)
